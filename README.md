@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MehmetAliErseven
+- 👋 Hi, I’m Mehmet Ali Erseven
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning javascript
 - 📫 You can reach me at ersevenmehmetali@gmail.com
