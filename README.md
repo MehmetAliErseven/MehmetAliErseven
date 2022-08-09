@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mehmet Ali Erseven
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in software development
+- ✨ I know html, css and javascript
+- 🌱 I’m currently learning PHP
 - 📫 You can reach me at ersevenmehmetali@gmail.com
 
 <!---
