@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Mehmet Ali Erseven
 - 👀 I’m interested in software development
-- ✨ I know html, css and javascript more than beginner level.
-- 🌱 I’m currently learning PHP
 - 📫 You can reach me at ersevenmehmetali@gmail.com
 
 <!---
